@@ -6,7 +6,7 @@
 		"temp": "temp",
 		"output": "output",
 		"qa": "qa",
-		"specification": "http://hl7.org/fhir/2016Sep/"
+		"specification": "http://hl7.org/fhir/2017Jan/"
 	},
   	"defaults": {
 		"Any": {
@@ -17,6 +17,7 @@
 				"template-base": "instance-template-sd.html"
 		}
 	},
+	"sct-edition" : "http://snomed.info/sct/731000124108",
 	"canonicalBase": "http://hl7.org/fhir/igtemplate",
 	"source": "igtemplate.xml",
 	"resources": {
