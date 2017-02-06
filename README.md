@@ -1,12 +1,16 @@
 # igtemplate
-FHIR Implementation Guide Template (FHIR 1.6-STU3)
+FHIR Implementation Guide Template (FHIR 1.8-STU3)
 
 This project provides the source for the FHIR Implementation Guide Template.
 
 Commits to this repository will automatically trigger a new build of the IG, which will then be published to the following location:
 
-[http://ig.fhir.me/cqframework/igtemplate](http://ig.fhir.me/cqframework/igtemplate)
+[http://build.fhir.org/ig/cqframework/igtemplate](http://build.fhir.org/ig/cqframework/igtemplate)
+
+Build log is available here:
+
+[http://ig-build.fhir.org.s3-website-us-east-1.amazonaws.com/logs/cqframework/igtemplate](http://ig-build.fhir.org.s3-website-us-east-1.amazonaws.com/logs/cqframework/igtemplate)
 
 Debugging information is available here:
 
-[http://ig.fhir.me/cqframework/igtemplate/debug.tgz](http://ig.fhir.me/cqframework/igtemplate/debug.tgz)
+[http://build.fhir.org/ig/cqframework/igtemplate/debug.tgz](http://build.fhir.org/ig/cqframework/igtemplate/debug.tgz)
