@@ -9,7 +9,7 @@ Commits to this repository will automatically trigger a new build of the IG, whi
 
 Build log is available here:
 
-[http://ig-build.fhir.org.s3-website-us-east-1.amazonaws.com/logs/cqframework/igtemplate](http://ig-build.fhir.org.s3-website-us-east-1.amazonaws.com/logs/cqframework/igtemplate)
+[http://build.fhir.org.s3-website-us-east-1.amazonaws.com/logs/cqframework/igtemplate](http://build.fhir.org.s3-website-us-east-1.amazonaws.com/logs/cqframework/igtemplate)
 
 Debugging information is available here:
 
